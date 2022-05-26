@@ -1,0 +1,6 @@
+framework module paper_onboarding_pointzi {
+  umbrella header "paper-onboarding-pointzi-umbrella.h"
+
+  export *
+  module * { export * }
+}
